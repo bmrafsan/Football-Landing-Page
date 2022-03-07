@@ -28,7 +28,7 @@
 }
 .button a,.hero-text a{
     background-color: #E02C6D;
-    padding: 10px 24px 10px 24px;
+    padding: 10px 24px ;
     font-family: 'poppins',sans-serif;
     width: 500px;
     font-style: normal;
@@ -40,7 +40,7 @@
 /* hero section style  */
 
 .hero-text h1 {
-    font-family: 'poppins'sans-serif;
+    font-family: 'poppins',sans-serif;
     font-style: normal;
     font-weight: bold;
     width: 700px;
@@ -49,6 +49,7 @@
     width: 485px;  
     font-size: 64px;
     padding-bottom: 27px;
+ 
 
 }
 .hero-img img{     
@@ -117,7 +118,7 @@
     padding-bottom: 158px;
 }
 .hero-text1 h1{
-    font-family: 'poppins'sans-serif;
+    font-family:'poppins',sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
